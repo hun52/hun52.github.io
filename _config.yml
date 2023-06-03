@@ -17,22 +17,22 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 옵티마이저 프라임이 되고싶어!
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  안녕하세요, 선한 영향력으로 세상을 이롭게 바꾸고 싶은 개발자입니다.
+  함께 만들어가요!
 
 # A shorter description for the sidebar.
 tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Study, Integration, DeepLearning, C++, C, CI/CD, Optimization ]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -80,7 +80,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
